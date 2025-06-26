@@ -1,0 +1,7 @@
+requirements.txt
+streamlit
+pandas
+python-docx
+fpdf
+matplotlib
+Pillow
